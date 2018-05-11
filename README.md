@@ -2,7 +2,7 @@
 php调用word2vec实现机器学习
 ### 使用方法
     执行make进行编译
-    执行phpphpword2vec.php可以得到当前guanjianci的
+    执行phpphpword2vec.php可以得到当前关键词的
     文档向量（该工具是把300维向量转化文档向量的工具）
     php直接调用然后可以进行svm等分类操作
     该工具在已经有训练数据后调用
